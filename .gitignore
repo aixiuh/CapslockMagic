@@ -1,0 +1,5 @@
+# local
+/tools/*.chm
+.idea
+/dist
+/bin/plugin/seeyon
